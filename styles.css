@@ -3,3 +3,9 @@ body {
 	background: green;
 	text-align: center;
 }
+
+body {
+	margin: 3;
+	background: blue;
+	text-align: center;
+}
