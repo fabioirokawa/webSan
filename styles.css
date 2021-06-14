@@ -1,13 +1,23 @@
-#titulo {
-	margin: 10;
-	background: green;
+
+/* apenas em um elemento*/
+#header1 {
+	background-color: #51a317;
+	color: black;
+	padding: 30px;
 	text-align: center;
-	font-family: verdana;
 }
 
-.corpo {
+/* pode ser usado em varios*/
+.boxbox {
 	margin: 3;
-	background: blue;
+	background: green;
 	text-align: center;
-	font-family: courier;
 }
+
+
+body {
+	margin: 3;
+	background: #80eb34;
+}
+
+
